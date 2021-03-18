@@ -67,8 +67,8 @@
         "allowForLoopAfterthoughts": true
       }
     ],
+    "curly": ["error", "all"],
     "arrow-body-style": ["off"],
-    "react-native/no-inline-styles": "off",
     "react/jsx-key": "error",
     "import/no-extraneous-dependencies": "off",
     "react/jsx-props-no-spreading": "off",
