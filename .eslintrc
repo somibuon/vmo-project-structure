@@ -67,6 +67,7 @@
         "allowForLoopAfterthoughts": true
       }
     ],
+    "arrow-body-style": ["off"],
     "react-native/no-inline-styles": "off",
     "react/jsx-key": "error",
     "import/no-extraneous-dependencies": "off",
